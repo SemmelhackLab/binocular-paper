@@ -1,0 +1,29 @@
+name: binocular-paper
+channels:
+  - conda-forge
+dependencies:
+  - h5py
+  - ipykernel
+  - ipympl
+  - matplotlib
+  - nbconvert
+  - nd2reader
+  - numpy
+  - opencv
+  - pandas
+  - pip
+  - pre-commit
+  - pytables
+  - scikit-image
+  - scikit-posthocs
+  - scipy
+  - seaborn
+  - simpleitk
+  - tqdm
+  - pre_commit
+  - mlxtend
+  - scikit-learn-intelex
+  - pip:
+    - bg-atlasapi
+    - colorcet
+    - mplex
