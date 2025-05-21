@@ -1,4 +1,5 @@
 # binocular-paper
+[![DOI](https://zenodo.org/badge/791249635.svg)](https://doi.org/10.5281/zenodo.15483912)
 
 This repository contains the code for the paper "Integration of binocular vision and motor state to promote prey pursuit"
 
